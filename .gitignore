@@ -1,15 +1,19 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+<<<<<<< HEAD
 /myapp/node_modules
+=======
+package-lock.json
+>>>>>>> lesson-26
 
 # dependencies
-/todoapp/node_modules
+/poketimes/node_modules
 
 # testing
-/todoapp/coverage
+/poketimes/coverage
 
 # production
-/todoapp/build
+/poketimes/build
 
 # misc
 .DS_Store
