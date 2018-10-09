@@ -1,5 +1,7 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+/myapp/node_modules
+
 # dependencies
 /todoapp/node_modules
 
